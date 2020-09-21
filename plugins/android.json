@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-autostart": {
+      "PACKAGE_NAME": "com.socks.ds1"
+    },
+    "cordova-plugin-fullscreen": {
+      "PACKAGE_NAME": "com.socks.ds1"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.socks.ds1"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.socks.ds1"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.socks.ds1"
+    }
+  },
+  "dependent_plugins": {}
+}

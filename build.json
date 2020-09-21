@@ -1,0 +1,18 @@
+{
+  "android": {
+    "debug": {
+      "keystore": "./android.keystore",
+      "storePassword": "2mgCyy76TJADRySM",
+      "alias": "groupgiftz",
+      "password": "2mgCyy76TJADRySM",
+      "_keystoreType": ""
+    },
+    "release": {
+      "keystore": "./android.keystore",
+      "storePassword": "2mgCyy76TJADRySM",
+      "alias": "groupgiftz",
+      "password": "2mgCyy76TJADRySM",
+      "_keystoreType": ""
+    }
+  }
+}
